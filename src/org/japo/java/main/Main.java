@@ -39,7 +39,7 @@ public class Main {
 
             System.out.print("Altura triángulo ..: ");
             alturaTri = SCN.nextDouble();
-            
+
             System.out.println("--------------------------");
 
             System.out.printf("Base triángulo ....: %.2f%n", baseTri);
